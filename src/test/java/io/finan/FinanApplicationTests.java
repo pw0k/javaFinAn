@@ -1,4 +1,4 @@
-package java.finan;
+package io.finan;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

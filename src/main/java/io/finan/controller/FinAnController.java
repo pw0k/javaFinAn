@@ -15,7 +15,7 @@ public class FinAnController {
     //M9
     public void test(){}
 
-    //M33
+    //M6
     @GetMapping
     public List<Stock> getStocks() {
         return List.of(new Stock("AAPL"), new Stock("GOOGL"),new NewStock("property"));

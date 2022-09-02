@@ -12,7 +12,7 @@ import java.util.List;
 @RequestMapping("stocks")
 public class FinAnController {
 
-    //ololo23
+    //ololo29
     @GetMapping
     public List<Stock> getStocks() {
         return List.of(new Stock("AAPL"), new Stock("GOOGL"),new NewStock("property"));

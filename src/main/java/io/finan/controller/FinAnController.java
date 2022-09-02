@@ -12,6 +12,7 @@ import java.util.List;
 @RequestMapping("stocks")
 public class FinAnController {
 
+    //M3
     public void test(){}
 
     //ololo29

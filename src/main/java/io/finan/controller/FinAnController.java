@@ -12,7 +12,7 @@ import java.util.List;
 @RequestMapping("stocks")
 public class FinAnController {
 
-    //M8
+    //M9
     public void test(){}
 
     //M33

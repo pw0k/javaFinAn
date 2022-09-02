@@ -12,6 +12,8 @@ import java.util.List;
 @RequestMapping("stocks")
 public class FinAnController {
 
+    public void test(){}
+
     //ololo29
     @GetMapping
     public List<Stock> getStocks() {

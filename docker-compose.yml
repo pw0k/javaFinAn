@@ -1,0 +1,12 @@
+#version: "3.9"
+
+services:
+
+  db:
+    image: postgres:13.3
+    environment:
+      POSTGRES_DB: "finandb"
+      POSTGRES_USER: "finan"
+      POSTGRES_PASSWORD: "finan"
+    ports:
+      - "5432:5432"
